@@ -1,0 +1,4 @@
+com\test\palindrome\service\Application.class
+com\test\palindrome\service\service\PalindromeService.class
+com\test\palindrome\service\controller\PalindromeController.class
+com\test\palindrome\service\service\PalindromeServiceImpl.class
